@@ -1,0 +1,16 @@
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\bin\Debug\net8.0-windows\JonasWinFormsDemo.exe
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\bin\Debug\net8.0-windows\JonasWinFormsDemo.deps.json
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\bin\Debug\net8.0-windows\JonasWinFormsDemo.runtimeconfig.json
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\bin\Debug\net8.0-windows\JonasWinFormsDemo.dll
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\bin\Debug\net8.0-windows\JonasWinFormsDemo.pdb
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.Form1.resources
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.csproj.GenerateResource.cache
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.AssemblyInfoInputs.cache
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.AssemblyInfo.cs
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.dll
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\refint\JonasWinFormsDemo.dll
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.pdb
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\JonasWinFormsDemo.genruntimeconfig.cache
+C:\Users\Thors\source\repos\JonasWinFormsDemo\JonasWinFormsDemo\obj\Debug\net8.0-windows\ref\JonasWinFormsDemo.dll
