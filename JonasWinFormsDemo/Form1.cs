@@ -16,7 +16,7 @@ namespace JonasWinFormsDemo
             if (eingabeBox.Text.Length > 0)
             {
                 myText = eingabeBox.Text;
-                MessageBox.Show("Der Text lautet: " + myText);
+                MessageBox.Show("Der Text lautet wie folgt: " + myText);
 
             }
             else { MessageBox.Show("Es wurde keine Eingabe gemacht!"); }
